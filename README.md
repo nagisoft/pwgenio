@@ -2,8 +2,11 @@
 
 PWGENIO is a Password Generator app that allows users to generate secure and strong passwords. Using React
 Password Lenght between 7 and 20 characters
-If not option is checked there is an Error !
+
+If no option is checked there is an Error !
+
 Feature to copy the generated password to the Clipboard
+
 
 - [Demo Website PWGENIO](https://pwgenio.netlify.app/)
 
